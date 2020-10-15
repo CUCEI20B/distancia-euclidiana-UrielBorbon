@@ -17,5 +17,4 @@ def test_distancia3():
     assert algoritmos.distancetwopoints(500, 500, 200, 200) == 424.26406871192853
     print(algoritmos.distancetwopoints(500,500,200,200))
 
-
 test_distancia3()
